@@ -1,4 +1,4 @@
-#Definitions
+# Definitions
 
 **Plaintext** is information that needs to be encrypted and protected. It is human readable.
 
@@ -8,7 +8,7 @@
 not be re-used.
 
 
-#How to Run
+# How to Run
 
 Run **./compileall** in bash shell(recommended) to compile all five programs. 
 
@@ -27,7 +27,7 @@ it is given.
 
 
 
-#Example
+# Example
 
 Following is an example of usage, if the program is being tested from the command line:
 
